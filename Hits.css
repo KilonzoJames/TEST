@@ -1,0 +1,19 @@
+div {
+    border:5px solid burlywood;
+    margin-top:50px ;
+    margin-left:auto;
+    margin-right:auto;
+    height:auto;
+    width:100vh;
+    font-size: x-large;
+  
+}
+#first{
+    background-color:beige;
+    padding:50px;
+    text-align: center;
+}
+#second{
+    background-color: cornsilk;
+    padding:20px;
+}
